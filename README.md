@@ -1,7 +1,9 @@
 # To-do List (React.js)
 
 This project displays a to-do list with the possibility to add data to the list.
-This project uses React.js along with Typescript showing how to control states inside components and how to use conditional CSS.
+It uses React.js along with Typescript showing how to control states inside components and how to use conditional CSS.
+
+![plot](./image/snapshot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
